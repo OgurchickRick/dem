@@ -24,5 +24,14 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+
+        private void Window_Closed(object sender, EventArgs e)
+        {
+            MessageBoxResult result = MessageBox.Show("Save change?", "Save", MessageBoxButton.YesNo);
+            if (result == MessageBoxResult.Yes)
+            {
+                Singleton.DB.SaveChanges();
+            }
+        }
     }
 }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace WpfApp1
 {
-    internal class Singleton
+    static public class Singleton
     {
+        public static readonly demo2024Entities DB = new demo2024Entities();
     }
 }

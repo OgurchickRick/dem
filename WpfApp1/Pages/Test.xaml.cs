@@ -30,5 +30,10 @@ namespace WpfApp1.Pages
             MainWindow mainWindow = Window.GetWindow(this) as MainWindow;
             mainWindow.frame.Navigate(new Login());
         }
+
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            table.ItemsSource = Singleton.DB.User.ToList();
+        }
     }
 }
