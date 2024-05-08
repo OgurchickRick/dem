@@ -49,3 +49,9 @@ C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\bin\Debug\Entity
 C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\bin\Debug\EntityFramework.xml
 C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\obj\Debug\Pages\Test2.g.cs
+C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\obj\Debug\Pages\Test2.baml
+C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\obj\Debug\Pages\Registration.g.cs
+C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\obj\Debug\Pages\Registration.baml
+C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\obj\Debug\Pages\EditUser.g.cs
+C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\obj\Debug\Pages\EditUser.baml

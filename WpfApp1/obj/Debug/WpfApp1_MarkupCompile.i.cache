@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Администратор\Desktop\dem2024\dem\WpfApp1\App.xaml
-3263217016
+61834251322
 2-1957146511
-1429328812
+17-1338565734
 19789189970
-MainWindow.xaml;Pages\Login.xaml;Pages\Test.xaml;
+MainWindow.xaml;Pages\EditUser.xaml;Pages\Login.xaml;Pages\Registration.xaml;Pages\Test.xaml;Pages\Test2.xaml;
 
-False
+True
 
